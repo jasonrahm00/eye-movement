@@ -14,6 +14,6 @@ The goal of this exercise was to create a pair of eyes whose pupils move to foll
 ### Improvement Roadmap
 - Update the stopFollow function to programmatically reset the functionality instead of just reloading the browser
 - Add a button to add more eyes that also follow the cursor around
-- Consider combining with Packman exercise and create ghost with eyes that track pacman movement
+- Consider combining with Pacman exercise and create ghost with eyes that track pacman movement
 ## Licensing
 Licensed under the terms of the MIT license.
