@@ -5,7 +5,7 @@ The goal of this exercise was to create a pair of eyes whose pupils move to foll
 - As the cursor moves around the screen, the eye pupils follow the cursor
 ### Original Features
 - The starter code included only a single eye and no movement functionality
-- A second eye was added (HTML code wad duplicated)
+- A second eye was added (HTML code was duplicated)
 - JS Functionality was wired up to track they mouse cursor on page load 
 ### Additional Enhancements
 - Default tracking behavior was removed from screen load
@@ -14,6 +14,7 @@ The goal of this exercise was to create a pair of eyes whose pupils move to foll
 ### Improvement Roadmap
 - Update the stopFollow function to programmatically reset the functionality instead of just reloading the browser
 - Add a button to add more eyes that also follow the cursor around
+- Make reusable web component for eyes to minimize amount of HTML that is copied and pasted
 - Consider combining with Pacman exercise and create ghost with eyes that track pacman movement
 ## Implementation
 - Clone, fork or download the repository
